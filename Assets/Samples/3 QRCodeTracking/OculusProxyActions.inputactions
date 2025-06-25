@@ -1,0 +1,34 @@
+{
+    "name": "OculusProxyActions",
+    "maps": [
+        {
+            "name": "ProxyTrigger",
+            "id": "f12015ed-02c5-489c-8f27-9498060e2186",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "a089c759-f421-4d46-bfaf-4c2cf8c75ebd",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "497d9660-c384-46ac-ab1f-3226d10ff99a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
