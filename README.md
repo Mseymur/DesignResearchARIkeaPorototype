@@ -73,6 +73,7 @@ This prototype implements a complete "phygital" user journey:
 
 ## 📄 License
 
+[License](license)
 
 ---
 
